@@ -72340,7 +72340,7 @@ else if(J.hi(J.t(r.gk(r),"Elo"),s.k2))return"platinum"
 else if(J.hi(J.t(r.gk(r),"Elo"),s.k4))return"gold"
 else if(J.hi(J.t(r.gk(r),"Elo"),s.r2))return"silver"
 else return"bronze"},
-Fw(a){var s=A.aqF(this.S6()),r=A.a([0,0.8],t.u)
+Fw(a){var s=A.aqF(this.S6()),r=A.a([0.3,0.8],t.u)
 return new A.eM(B.b0,B.aS,B.aG,A.a([s,new A.u(4286343519)],t.W),r,null)},
 Fx(a){var s=A.aqF(this.S7()),r=A.a([0,0.8],t.u)
 return new A.eM(B.b0,B.aS,B.aG,A.a([s,new A.u(4286343519)],t.W),r,null)},
@@ -72502,21 +72502,19 @@ return A.L($async$t8,r)},
 mY(a){return this.TB(a)},
 TB(a){var s=0,r=A.M(t.H),q=this,p,o,n,m,l
 var $async$mY=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:n=A.a([],t.s)
-m=t.z
-l=new A.a3H(n,A.v(m,m),"google.com")
-n.push("https://www.googleapis.com/auth/contacts.readonly")
+while(true)switch(s){case 0:m=t.z
+l=new A.a3H(A.a([],t.s),A.v(m,m),"google.com")
 l.c=A.at(["prompt","select_account"],m,m)
-n=$.of
-p=(n==null?$.of=$.WQ():n).vb(0,"[DEFAULT]")
-A.jH(p,$.qL(),!1)
+p=$.of
+o=(p==null?$.of=$.WQ():p).vb(0,"[DEFAULT]")
+A.jH(o,$.qL(),!1)
 s=2
-return A.E(A.avh(new A.kx(p)).fW(0,l),$async$mY)
-case 2:o=c
+return A.E(A.avh(new A.kx(o)).fW(0,l),$async$mY)
+case 2:n=c
 s=3
 return A.E(A.mX(),$async$mY)
 case 3:c.nn("Bool","googleSignedIn",!0)
-q.c=o.gtb(o)
+q.c=n.gtb(n)
 A.ox($.aF(),new A.a7H(),m)
 return A.K(null,r)}})
 return A.L($async$mY,r)},
