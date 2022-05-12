@@ -73042,7 +73042,7 @@ n=p.c
 o.m(0,"displayName",n==null?null:n.a.c.h(0,"displayName"))
 n=p.c
 o.m(0,"clientId",n==null?null:n.a.c.h(0,"uid"))
-n=A.aIj(A.nn("wss://35.206.145.200:14002",0,null),null)
+n=A.aIj(A.nn("wss://1second.hopto.org:14002",0,null),null)
 p.e=n
 n=A.b(A.b(A.b(n,"channel").f.b,"_foreign").b,"_streamController")
 new A.df(n,A.o(n).i("df<1>")).iW(0,new A.a7W(),new A.a7X(p,a),new A.a7Y())
