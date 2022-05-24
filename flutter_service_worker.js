@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f5fa40bdbfed6b8ac3fd861c66bbf3d6",
+  "assets/AssetManifest.json": "2bd0394f2e3c18771071e99fd7eed5d1",
 "assets/assets/android-chrome-192x192.png": "587dcd12d269f218ace91a7605f926cc",
 "assets/assets/android-chrome-512x512.png": "159a23aea2cf26c12bde76b3f1a31564",
 "assets/assets/apple-touch-icon.png": "6c3a08cb4b438ee2e380dedf3b807545",
@@ -19,6 +19,7 @@ const RESOURCES = {
 "assets/assets/Capture2.PNG": "b9ac3bee7b054876eedad9b4041e08b7",
 "assets/assets/Capture3.PNG": "46831acbe8e22a7e90f4e167b774673c",
 "assets/assets/chaine.png": "985a437aee6417c41545bb40d4dc4e78",
+"assets/assets/chain_empty.png": "0fc5712d9ac6772e2a3a98b1380e4112",
 "assets/assets/favicon-16x16.png": "14f62592f678e9ec6a7816e7b373b6b8",
 "assets/assets/favicon-32x32.png": "168bdf9c0ded58f145c42c8c14b689e0",
 "assets/assets/favicon.ico": "36d2c4105bcae1136d489646493f08db",
@@ -30,6 +31,7 @@ const RESOURCES = {
 "assets/assets/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
 "assets/assets/us.png": "2d6373c21ed9fdabae01d62159370def",
 "assets/assets/visiere.png": "d32254c66ee4edccbc5e35c4f402982c",
+"assets/assets/visiere_empty.png": "3bf0be440470c87f00cda95b5e8a80bd",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "be045ccb5f975541ac5f87d50372879d",
@@ -44,9 +46,9 @@ const RESOURCES = {
 "icons/favicon-16x16.png": "14f62592f678e9ec6a7816e7b373b6b8",
 "icons/favicon-32x32.png": "168bdf9c0ded58f145c42c8c14b689e0",
 "icons/favicon.ico": "36d2c4105bcae1136d489646493f08db",
-"index.html": "62da6b131829f36ead2641161c765270",
-"/": "62da6b131829f36ead2641161c765270",
-"main.dart.js": "bebc066e72896784295e84d132e8fa24",
+"index.html": "c0ed62b8a215bd320e922a477289abe9",
+"/": "c0ed62b8a215bd320e922a477289abe9",
+"main.dart.js": "f3f1a9518e563b9cdbfd96e394bbd533",
 "manifest.json": "f84c82192467bb5fe15686ed36eea46c",
 "splash/img/dark-1x.png": "ed388fd731b0b164359ac3683b9f7bd0",
 "splash/img/dark-2x.png": "70eaf901352d7742400d5585e34303b5",
