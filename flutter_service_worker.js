@@ -34,21 +34,22 @@ const RESOURCES = {
 "assets/assets/visiere_empty.png": "3bf0be440470c87f00cda95b5e8a80bd",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "be045ccb5f975541ac5f87d50372879d",
+"assets/NOTICES": "05b32f441d775302b3ad459454f64e9d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"firebase-messaging-sw.js": "320ca09b20f5e3ae30a59a007a9d1a75",
 "icons/android-chrome-192x192.png": "587dcd12d269f218ace91a7605f926cc",
 "icons/android-chrome-512x512.png": "159a23aea2cf26c12bde76b3f1a31564",
 "icons/favicon-16x16.png": "14f62592f678e9ec6a7816e7b373b6b8",
 "icons/favicon-32x32.png": "168bdf9c0ded58f145c42c8c14b689e0",
 "icons/favicon.ico": "36d2c4105bcae1136d489646493f08db",
-"index.html": "c0ed62b8a215bd320e922a477289abe9",
-"/": "c0ed62b8a215bd320e922a477289abe9",
-"main.dart.js": "f3f1a9518e563b9cdbfd96e394bbd533",
+"index.html": "f2ebb8f2e50f63ac267d282127301f70",
+"/": "f2ebb8f2e50f63ac267d282127301f70",
+"main.dart.js": "720f3a3f5cc8b82cb05b6bc5758d2028",
 "manifest.json": "f84c82192467bb5fe15686ed36eea46c",
 "splash/img/dark-1x.png": "ed388fd731b0b164359ac3683b9f7bd0",
 "splash/img/dark-2x.png": "70eaf901352d7742400d5585e34303b5",
@@ -60,7 +61,7 @@ const RESOURCES = {
 "splash/img/light-4x.png": "5b2bb566937ce43aa67d3eb9c2f558c8",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "b076920cc8080a91f2104a5567d66851",
-"version.json": "322dfa94430cc69aa45ce83495f46466"
+"version.json": "769dedd5a08d0711eb8930a7e05052f7"
 };
 
 // The application shell files that are downloaded before a service worker can
