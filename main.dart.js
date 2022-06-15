@@ -73992,7 +73992,7 @@ s=9
 break
 case 6:s=2
 break
-case 9:j=A.aKz(A.nI("wss://capseurs.duckdns.org:14002",0,null))
+case 9:j=A.aKz(A.nI("wss://capseurs.mooo.com:14002",0,null))
 m.e=j
 j=A.b(j,"channel")
 j.gpv(j).i8(0,new A.a94(),new A.a95(m,a),new A.a96())
