@@ -37,15 +37,14 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"firebase-messaging-sw.js": "320ca09b20f5e3ae30a59a007a9d1a75",
 "icons/android-chrome-192x192.png": "587dcd12d269f218ace91a7605f926cc",
 "icons/android-chrome-512x512.png": "159a23aea2cf26c12bde76b3f1a31564",
 "icons/favicon-16x16.png": "14f62592f678e9ec6a7816e7b373b6b8",
 "icons/favicon-32x32.png": "168bdf9c0ded58f145c42c8c14b689e0",
 "icons/favicon.ico": "36d2c4105bcae1136d489646493f08db",
-"index.html": "e27b9bd25d3f26532d0a1d1f249a719c",
-"/": "e27b9bd25d3f26532d0a1d1f249a719c",
-"main.dart.js": "178884da797b8f8c510214d7098e9846",
+"index.html": "c8b707f85ecbf737c9c0eea7531edfc7",
+"/": "c8b707f85ecbf737c9c0eea7531edfc7",
+"main.dart.js": "ccac1bc0518d5506b0fcf2aacf8092d6",
 "manifest.json": "f84c82192467bb5fe15686ed36eea46c",
 "splash/img/dark-1x.png": "ed388fd731b0b164359ac3683b9f7bd0",
 "splash/img/dark-2x.png": "70eaf901352d7742400d5585e34303b5",
@@ -57,6 +56,7 @@ const RESOURCES = {
 "splash/img/light-4x.png": "5b2bb566937ce43aa67d3eb9c2f558c8",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "b076920cc8080a91f2104a5567d66851",
+"test/firebase-messaging-sw.js": "ab4be13c2c2a3e54181b7307d10cd07a",
 "version.json": "769dedd5a08d0711eb8930a7e05052f7"
 };
 
