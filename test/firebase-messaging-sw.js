@@ -1,19 +1,18 @@
-importScripts("https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js");
-importScripts("https://www.gstatic.com/firebasejs/8.10.0/firebase-messaging.js");
+importScripts("https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js");
+importScripts("https://www.gstatic.com/firebasejs/9.6.10/firebase-messaging.js");
 
 //Using singleton breaks instantiating messaging()
-// App firebase = FirebaseWeb.instance.app;
+//App firebase = FirebaseWeb.instance.app;
 
 
 firebase.initializeApp({
-  apiKey: 'api-key',
-  authDomain: 'project-id.firebaseapp.com',
-  databaseURL: 'https://project-id.firebaseio.com',
-  projectId: 'project-id',
-  storageBucket: 'project-id.appspot.com',
-  messagingSenderId: 'sender-id',
-  appId: 'app-id',
-  measurementId: 'G-measurement-id',
+  apiKey: "AIzaSyCRv7okSu8Yo7UcYj2CExoeZmSmpYOgTQo",
+  authDomain: "capseurs-cc6b3.firebaseapp.com",
+  projectId: "capseurs-cc6b3",
+  storageBucket: "capseurs-cc6b3.appspot.com",
+  messagingSenderId: "701810790036",
+  appId: "1:701810790036:web:82e60822b3444a9885ae81",
+  measurementId: "G-TXV7PMSTR5"
 });
 
 const messaging = firebase.messaging();
