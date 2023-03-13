@@ -47,7 +47,7 @@ const RESOURCES = {
 "icons/favicon.ico": "36d2c4105bcae1136d489646493f08db",
 "index.html": "2ae9a5fec2feb7680aa2d9ff36109019",
 "/": "2ae9a5fec2feb7680aa2d9ff36109019",
-"main.dart.js": "eaa8108876aee42085ed04eb24c3b6fb",
+"main.dart.js": "24574e3c94e1f998cf017ad7a70b9fbe",
 "manifest.json": "f84c82192467bb5fe15686ed36eea46c",
 "splash/img/dark-1x.png": "ed388fd731b0b164359ac3683b9f7bd0",
 "splash/img/dark-2x.png": "70eaf901352d7742400d5585e34303b5",
@@ -59,6 +59,7 @@ const RESOURCES = {
 "splash/img/light-4x.png": "5b2bb566937ce43aa67d3eb9c2f558c8",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
 "splash/style.css": "b076920cc8080a91f2104a5567d66851",
+"stack.txt": "2d0b86bd48c0444c5c1b14354f1f9ab1",
 "version.json": "769dedd5a08d0711eb8930a7e05052f7"
 };
 
